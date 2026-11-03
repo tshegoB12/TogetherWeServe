@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:padding="20dp" android:background="@color/tws_background">
+    <include layout="@layout/toolbar_brand" />
+    <TextView android:id="@+id/tvProfileName" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="22dp" android:textSize="24sp" android:textStyle="bold" android:textColor="@color/tws_text_primary"/>
+    <TextView android:id="@+id/tvProfileEmail" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:textColor="@color/tws_text_secondary"/>
+    <TextView android:id="@+id/tvImpact" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:padding="18dp" android:background="@color/tws_surface" android:textStyle="bold" android:textColor="@color/tws_text_primary"/>
+    <TextView android:id="@+id/tvFavorites" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp" android:padding="18dp" android:background="@color/tws_surface" android:textColor="@color/tws_text_primary"/>
+</LinearLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TogetherWeServe</string>
+
+    <!-- Login / Register -->
+    <string name="welcome_back">Welcome back</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="or_divider">— or —</string>
+    <string name="continue_google">Continue with Google (SSO)</string>
+    <string name="no_account_register">Don\'t have an account? Register</string>
+    <string name="create_account">Create account</string>
+    <string name="display_name">Full name</string>
+    <string name="register">Register</string>
+    <string name="already_have_account">Already have an account? Log in</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home / feed -->
+    <string name="discover_events">Discover Events</string>
+    <string name="search_hint">Search volunteer events...</string>
+    <string name="join">Claim</string>
+    <string name="going_format">%1$d going</string>
+
+    <!-- Event detail -->
+    <string name="event_details">Event Details</string>
+    <string name="join_as">Join as:</string>
+    <string name="individual">Individual</string>
+    <string name="group_team">Group / Team</string>
+    <string name="invite_by_code_format">Invite friends by code: %1$s</string>
+    <string name="confirm_signup">Confirm Sign-up</string>
+    <string name="claim_confirm_signup">Claim this event · Confirm sign-up</string>
+    <string name="registration_requires_login">Please sign in before claiming an event.</string>
+    <string name="registration_failed">Could not register right now. Please check your connection and try again.</string>
+    <string name="registration_saved_offline">Registration saved offline. It will sync when you reconnect.</string>
+    <string name="registration_success_schedule">Registration confirmed! You can find this event in My Schedule.</string>
+    <string name="spots_left_format">%1$d volunteers going · %2$d spots left</string>
+
+    <!-- Group sign-up -->
+    <string name="group_signup_title">Group / Team Sign-up</string>
+    <string name="create_new_group">Create a new group</string>
+    <string name="group_name">Group name</string>
+    <string name="or_join_existing">Or join an existing group</string>
+    <string name="invite_code">Invite code</string>
+    <string name="create_group">Create Group</string>
+    <string name="join_group">Join Group</string>
+
+    <!-- My Schedule -->
+    <string name="my_schedule">My Schedule</string>
+    <string name="offline_banner">Offline — showing cached data</string>
+    <string name="status_confirmed">Confirmed</string>
+    <string name="status_pending_sync">Pending sync</string>
+
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="profile_information">Profile information</string>
+    <string name="notification_preferences">Notification preferences</string>
+    <string name="language_label">Language: English / isiZulu / Sesotho</string>
+    <string name="offline_data_sync">Offline data &amp; sync</string>
+    <string name="privacy_security">Privacy &amp; security</string>
+    <string name="log_out">Log out</string>
+
+    <!-- Organiser -->
+    <string name="create_event_npo">Create Event (NPO)</string>
+    <string name="event_title">Event title</string>
+    <string name="cause_category">Cause category</string>
+    <string name="date_time">Date &amp; time</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="volunteer_slots">Volunteer slots available</string>
+    <string name="publish_event">Publish Event</string>
+
+    <string name="error_required_field">This field is required</string>
+    <string name="error_login_failed">Login failed. Check your details and try again.</string>
+    <string name="success_registered">You\'re signed up for this event.</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+    <string name="choose_language">Choose language</string>
+    <string name="event_reminders">Event reminders</string>
+    <string name="chat_messages">Chat messages</string>
+    <string name="offline_explanation">Event details and registrations are cached locally. Actions made while offline are queued in RoomDB and synchronised with the REST API when connectivity returns.</string>
+    <string name="privacy_explanation">Firebase Authentication handles credential security. The app does not store plain-text passwords.</string>
+    <string name="offline_settings_saved">Saved locally. Sync will happen when you reconnect.</string>
+    <string name="settings_saved">Settings saved.</string>
+    <string name="settings_sync_failed">Could not sync settings right now.</string>
+    <string name="save_event">Save event</string>
+    <string name="saved_event">Saved</string>
+    <string name="added_to_favorites">Event saved to favourites.</string>
+    <string name="removed_from_favorites">Event removed from favourites.</string>
+    <string name="saved_events_count">Saved events: %1$d</string>
+    <string name="impact_summary">Volunteer impact: %1$d confirmed events · approximately %2$d service hours</string>
+    <string name="volunteer">Volunteer</string>
+    <string name="notification_screen_title">Notifications</string>
+    <string name="notifications_body">You are subscribed to real-time TogetherWeServe event alerts. New volunteering opportunities can appear here as push notifications when organisers publish events.</string>
+    <string name="no_events_found">No events found. Pull down to refresh or try another search/filter.</string>
+    <string name="event_unavailable_title">Event details unavailable</string>
+    <string name="event_unavailable_message">This event could not be loaded. Check your internet connection and confirm that the events API is deployed and the event still exists.</string>
+    <string name="no_schedule_events">No events claimed yet. Open Discover Events, tap Claim, then confirm your sign-up. Your event will appear here.</string>
+
+    <!-- Added in v2.1 -->
+    <string name="hosted_by_format">%1$s · Hosted by %2$s</string>
+    <string name="notification_permission_denied">Notifications are turned off. Enable them in system settings to receive new event alerts.</string>
+    <string name="no_notifications_yet">No alerts yet. When an organiser publishes a new event, it will appear here.</string>
+    <string name="clear_all">Clear all</string>
+    <string name="organiser_mode">Organiser mode</string>
+    <string name="organiser_mode_explanation">Turn this on if you are a registered organiser (NPO). The Create Event button then appears on Home. The server still checks your organiser status when you publish.</string>
+</resources>

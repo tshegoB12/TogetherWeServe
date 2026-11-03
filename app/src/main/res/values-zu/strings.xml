@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TogetherWeServe</string>
+
+    <string name="welcome_back">Siyakwamukela futhi</string>
+    <string name="email_address">Ikheli le-imeyili</string>
+    <string name="password">Iphasiwedi</string>
+    <string name="log_in">Ngena</string>
+    <string name="or_divider">— noma —</string>
+    <string name="continue_google">Qhubeka nge-Google (SSO)</string>
+    <string name="no_account_register">Awunayo i-akhawunti? Bhalisa</string>
+    <string name="create_account">Dala i-akhawunti</string>
+    <string name="display_name">Igama eliphelele</string>
+    <string name="register">Bhalisa</string>
+    <string name="already_have_account">Usunayo i-akhawunti? Ngena</string>
+
+    <string name="nav_home">Ikhaya</string>
+    <string name="nav_schedule">Ishejuli</string>
+    <string name="nav_notifications">Izaziso</string>
+    <string name="nav_profile">Iphrofayela</string>
+    <string name="nav_settings">Izilungiselelo</string>
+
+    <string name="discover_events">Thola Imicimbi</string>
+    <string name="search_hint">Sesha imicimbi yamavolontiya...</string>
+    <string name="join">Bhalisa</string>
+    <string name="going_format">%1$d bayahamba</string>
+
+    <string name="event_details">Imininingwane Yomcimbi</string>
+    <string name="join_as">Joyina njenge:</string>
+    <string name="individual">Umuntu ngamunye</string>
+    <string name="group_team">Iqembu</string>
+    <string name="invite_by_code_format">Mema abangane ngekhodi: %1$s</string>
+    <string name="confirm_signup">Qinisekisa Ukubhalisa</string>
+    <string name="spots_left_format">%1$d abavolontiya · %2$d izikhala ezisele</string>
+
+    <string name="group_signup_title">Ukubhalisa Kweqembu</string>
+    <string name="create_new_group">Dala iqembu elisha</string>
+    <string name="group_name">Igama leqembu</string>
+    <string name="or_join_existing">Noma joyina iqembu elikhona</string>
+    <string name="invite_code">Ikhodi yesimemo</string>
+    <string name="create_group">Dala Iqembu</string>
+    <string name="join_group">Joyina Iqembu</string>
+
+    <string name="my_schedule">Ishejuli Yami</string>
+    <string name="offline_banner">Ayikho ku-inthanethi — kuboniswa idatha egciniwe</string>
+    <string name="status_confirmed">Kuqinisekisiwe</string>
+    <string name="status_pending_sync">Kulindele ukuvumelanisa</string>
+
+    <string name="settings">Izilungiselelo</string>
+    <string name="profile_information">Imininingwane yephrofayela</string>
+    <string name="notification_preferences">Okuncanyelwe kwezaziso</string>
+    <string name="language_label">Ulimi: IsiNgisi / IsiZulu / IsiSuthu</string>
+    <string name="offline_data_sync">Idatha engaxhunyiwe &amp; ukuvumelanisa</string>
+    <string name="privacy_security">Ubumfihlo &amp; ukuphepha</string>
+    <string name="log_out">Phuma</string>
+
+    <string name="create_event_npo">Dala Umcimbi (NPO)</string>
+    <string name="event_title">Isihloko somcimbi</string>
+    <string name="cause_category">Uhlobo lwesizathu</string>
+    <string name="date_time">Usuku &amp; isikhathi</string>
+    <string name="location">Indawo</string>
+    <string name="description">Incazelo</string>
+    <string name="volunteer_slots">Izikhala zabavolontiya</string>
+    <string name="publish_event">Shicilela Umcimbi</string>
+
+    <string name="error_required_field">Le nkambu iyadingeka</string>
+    <string name="error_login_failed">Ukungena kuhlulekile. Hlola imininingwane yakho.</string>
+    <string name="success_registered">Usubhalisiwe kulo mcimbi.</string>
+    <string name="notification_screen_title">Izaziso</string>
+    <string name="notifications_body">Uthola izaziso zesikhathi sangempela zezehlakalo ze-TogetherWeServe. Amathuba amasha okuvolontiya angavela lapha uma abahleli beshicilela imicimbi.</string>
+    <string name="claim_confirm_signup">Funa lo mcimbi · Qinisekisa ukubhalisa</string>
+    <string name="registration_requires_login">Sicela ungene ngemvume ngaphambi kokufaka isicelo somcimbi.</string>
+    <string name="registration_failed">Ukubhalisa akuphumelelanga manje. Hlola uxhumano bese uzama futhi.</string>
+    <string name="registration_saved_offline">Kulondoloziwe ukuze kuvumelaniswe uma usuxhumekile.</string>
+    <string name="registration_success_schedule">Ukubhalisa kuqinisekisiwe! Lo mcimbi utholakala kuSheduli Yami.</string>
+    <string name="no_events_found">Ayikho imicimbi etholakele. Donsela phansi ukuze uvuselele noma ushintshe usesho/izihlungi.</string>
+    <string name="no_schedule_events">Awukakhethi mcimbi. Vula Thola Imicimbi, cindezela Bhalisa, bese uqinisekisa ukubhalisa. Umcimbi uzovela lapha.</string>
+
+    <string name="added_to_favorites">Umcimbi ulondoloziwe kokuthandekayo.</string>
+    <string name="removed_from_favorites">Umcimbi ukhishiwe kokuthandekayo.</string>
+    <string name="chat_messages">Imilayezo yengxoxo</string>
+    <string name="choose_language">Khetha ulimi</string>
+    <string name="close">Vala</string>
+    <string name="done">Kwenziwe</string>
+    <string name="event_reminders">Izikhumbuzo zemicimbi</string>
+    <string name="event_unavailable_title">Imininingwane yomcimbi ayitholakali</string>
+    <string name="event_unavailable_message">Lo mcimbi awukwazanga ukulayishwa. Hlola uxhumo lwakho lwe-inthanethi bese uqinisekisa ukuthi i-API yemicimbi iyasebenza futhi umcimbi usekhona.</string>
+    <string name="impact_summary">Umthelela wokuvolontiya: imicimbi eqinisekisiwe engu-%1$d · cishe amahora enkonzo angu-%2$d</string>
+    <string name="offline_explanation">Imininingwane yemicimbi nokubhaliswa kugcinwa kule foni. Izenzo ezenziwe ungaxhumekile zibekwa emgqeni ku-RoomDB bese ziyavumelaniswa ne-REST API uma uxhumeka futhi.</string>
+    <string name="offline_settings_saved">Kugcinwe kule foni. Kuzovumelaniswa uma uxhumeka futhi.</string>
+    <string name="privacy_explanation">I-Firebase Authentication iphatha ukuphepha kwemininingwane yokungena. Uhlelo lokusebenza alugcini amaphasiwedi ngendlela ebonakalayo.</string>
+    <string name="save_event">Gcina umcimbi</string>
+    <string name="saved_event">Kugciniwe</string>
+    <string name="saved_events_count">Imicimbi egciniwe: %1$d</string>
+    <string name="settings_saved">Izilungiselelo zigciniwe.</string>
+    <string name="settings_sync_failed">Azikwazanga ukuvumelanisa izilungiselelo manje.</string>
+    <string name="volunteer">Ivolontiya</string>
+    <string name="hosted_by_format">%1$s · Kuhlelwe ngu-%2$s</string>
+    <string name="notification_permission_denied">Izaziso zivaliwe. Zivule kuzilungiselelo zesistimu ukuze uthole izaziso zemicimbi emisha.</string>
+    <string name="no_notifications_yet">Azikabikho izaziso. Uma umhleli eshicilela umcimbi omusha, uzovela lapha.</string>
+    <string name="clear_all">Susa konke</string>
+    <string name="organiser_mode">Imodi yomhleli</string>
+    <string name="organiser_mode_explanation">Vula lokhu uma uyimhleli obhalisiwe (i-NPO). Inkinobho yokudala umcimbi izobe isivela ekhasini Lasekhaya. Iseva isazohlola isimo sakho somhleli uma ushicilela.</string>
+</resources>

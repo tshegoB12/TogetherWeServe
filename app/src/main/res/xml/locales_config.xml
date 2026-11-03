@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Per-app language list (Android 13+ system settings) - English + two South African languages. -->
+<locale-config xmlns:android="http://schemas.android.com/apk/res/android">
+    <locale android:name="en" />
+    <locale android:name="zu" />
+    <locale android:name="st" />
+</locale-config>

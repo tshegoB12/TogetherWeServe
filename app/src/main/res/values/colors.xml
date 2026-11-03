@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tws_green_dark">#1B4332</color>
+    <color name="tws_green">#2D6A4F</color>
+    <color name="tws_green_light">#95D5B2</color>
+    <color name="tws_black_bar">#1A1A1A</color>
+    <color name="tws_background">#FFFFFF</color>
+    <color name="tws_surface">#F4F6F5</color>
+    <color name="tws_text_primary">#1A1A1A</color>
+    <color name="tws_text_secondary">#6B6B6B</color>
+    <color name="tws_border">#DDDDDD</color>
+    <color name="tws_warning_bg">#FFF3CD</color>
+    <color name="tws_warning_text">#7A5B00</color>
+</resources>

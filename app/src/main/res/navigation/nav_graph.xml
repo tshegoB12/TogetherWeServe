@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/nav_graph" app:startDestination="@id/homeFragment">
+    <fragment android:id="@+id/homeFragment" android:name="com.togetherweserve.app.ui.home.HomeFragment" android:label="@string/nav_home" />
+    <fragment android:id="@+id/scheduleFragment" android:name="com.togetherweserve.app.ui.schedule.ScheduleFragment" android:label="@string/nav_schedule" />
+    <fragment android:id="@+id/notificationsFragment" android:name="com.togetherweserve.app.ui.notifications.NotificationsFragment" android:label="@string/nav_notifications" />
+    <fragment android:id="@+id/profileFragment" android:name="com.togetherweserve.app.ui.profile.ProfileFragment" android:label="@string/nav_profile" />
+    <fragment android:id="@+id/settingsFragment" android:name="com.togetherweserve.app.ui.settings.SettingsFragment" android:label="@string/nav_settings" />
+</navigation>

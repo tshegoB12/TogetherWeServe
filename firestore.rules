@@ -1,0 +1,13 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // All reads/writes go through the Cloud Functions REST API (using the
+    // Admin SDK, which bypasses these rules). This lockdown simply makes
+    // sure no client can talk to Firestore directly, matching the
+    // architecture described in the Planning & Design document.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

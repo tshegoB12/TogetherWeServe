@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TogetherWeServe" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/tws_green</item>
+        <item name="colorPrimaryDark">@color/tws_green_dark</item>
+        <item name="colorAccent">@color/tws_green</item>
+        <item name="android:windowBackground">@color/tws_background</item>
+        <item name="android:statusBarColor">@color/tws_black_bar</item>
+    </style>
+
+    <style name="Theme.TogetherWeServe.Splash" parent="Theme.TogetherWeServe">
+        <item name="android:windowBackground">@color/tws_green_dark</item>
+    </style>
+
+    <style name="Tws.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/tws_green</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="Tws.Button.Outline" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/tws_border</item>
+        <item name="android:textColor">@color/tws_text_primary</item>
+        <item name="cornerRadius">6dp</item>
+    </style>
+
+    <style name="Tws.Header" parent="Widget.AppCompat.TextView">
+        <item name="android:background">@color/tws_black_bar</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">16dp</item>
+    </style>
+
+    <style name="Tws.Input" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/tws_border</item>
+    </style>
+
+    <style name="SettingsRow" parent="Widget.AppCompat.TextView">
+        <item name="android:background">@color/tws_surface</item>
+        <item name="android:textColor">@color/tws_text_primary</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+</resources>

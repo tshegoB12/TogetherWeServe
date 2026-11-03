@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356224690323",
+    "project_id": "togetherweserve-39d3f",
+    "storage_bucket": "togetherweserve-39d3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356224690323:android:2eab185bf5cd0357a14566",
+        "android_client_info": {
+          "package_name": "com.togetherweserve.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356224690323-bojrm10ek02q1k30631qgucme74pqvf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.togetherweserve.app",
+            "certificate_hash": "53b8c166584f21f2204665e961fa013167bb5803"
+          }
+        },
+        {
+          "client_id": "356224690323-tfogsp3q9u72ajbvkia5buatakcon1kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjj2975vNWr0Ozmygj2fMXDT6Bmah9IY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356224690323-tfogsp3q9u72ajbvkia5buatakcon1kp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
